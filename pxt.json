@@ -11,7 +11,9 @@
         "sonarbit": "github:elecfreaks/pxt-sonarbit#v1.0.9",
         "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.33",
         "datalogger": "*",
-        "Sound Level in decibels (dB)": "github:microbit-foundation/pxt-sound-level-db#v0.1.13"
+        "Sound Level in decibels (dB)": "github:microbit-foundation/pxt-sound-level-db#v0.1.13",
+        "microbit-pxt-flashstorage": "github:bsiever/microbit-pxt-flashstorage#v0.1.4",
+        "radio-mesh": "github:PythonProLT/microbitRadioMesh#14cde82c9a94658d7dd260103f5612d463a0cb17"
     },
     "files": [
         "main.blocks",
